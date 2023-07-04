@@ -1,7 +1,7 @@
 # Suberscribe (subscription-app)
 An e-commerce experience crafted with MERN stack offering a collection of articles based on purchased subscription.
 
-**Technologies Used:**
+### `<Technologies Used>`
 React.js,
 React Hooks,
 React-router-dom,
@@ -17,18 +17,18 @@ Cors,
 JsonWebToken,
 TypeScript
 
-**Pre-requisites--**
+### `<Pre-requisites>`
 Node: v19.8.1
 NPM: v9.5.1
 
-**Instructions to run:**
+### `<Instructions to run>`
 1) "npm ci" in client folder && "npm ci" in server folder
    
 3) Put apropriate values in .env file according to the comments
    
 4) "npm run start:dev" in server && "npm run start" in client
 
-**App-preview**
+### `<App-preview>`
 
 ![landing-page](https://github.com/RAW85/Suberscribe/assets/91591635/698a9161-dd79-4910-8c38-34737cbf908b)
 
